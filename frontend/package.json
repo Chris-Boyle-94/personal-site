@@ -23,7 +23,6 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.3.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
